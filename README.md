@@ -1,5 +1,3 @@
-<img src="public/presenting-cover-image.png" />
-
 <div style="text-align: center; width: 100%;">
   <p>Feel free to contact me via:</p>
   <div style="display: flex; align-items: center; justify-content: center; gap: .5rem;">
@@ -19,19 +17,25 @@ I am always striving to improve my Webanimation Skills. In order to practise Fra
 
 You can try out the component and read more about the implementation on [my portfolio](https://amelieschlueter.com/interactions/dynamic-island).implementation
 
-### Roadmap
+### How to use
 
-- [x] ⌨️ Personal Blog
-- [x] 🎧 Music & Reading Section
-- [x] 👆🏼 Interaction Corner
-- [ ] 📸 Photos
+1. Clone the Repo
 
-### Implementation
+```
+git clone https://github.com/amelie-schlueter/animations
+```
 
-- 🛜 Using NextJS for SSR
-- ⌨️ Markdown to handle Content
-- 🔑 TRPC for Server/Client Typesafety
-- 🌉 Light / Darktheme
+2. Install the dependecies.
+
+```
+pnpm install
+```
+
+3. Run the Dev Server
+
+```
+pnpm run dev
+```
 
 ### Reach out 📢
 

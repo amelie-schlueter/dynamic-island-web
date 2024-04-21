@@ -5,7 +5,7 @@ import KontaktImage from "./KontaktImage";
 import KontaktInfo from "./KontaktInfo";
 import CallInfoWrapper from "./CallInfoWrapper";
 import { cn } from "@/lib/utils";
-import { DynamicIslandTypes } from "@/lib/types/dynamicIsland";
+import { DynamicIslandTypes } from "./DynamicIsland";
 
 interface DynamicCallProps {
   active?: DynamicIslandTypes;
