@@ -1,3 +1,5 @@
+<img src="src/opengraph-image.png" alt="preview-image">
+
 <div style="text-align: center; width: 100%;">
   <p>Feel free to contact me via:</p>
   <div style="display: flex; align-items: center; justify-content: center; gap: .5rem;">
