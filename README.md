@@ -1,36 +1,38 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<img src="public/presenting-cover-image.png" />
 
-## Getting Started
+<div style="text-align: center; width: 100%;">
+  <p>Feel free to contact me via:</p>
+  <div style="display: flex; align-items: center; justify-content: center; gap: .5rem;">
+    <a style="text-decoration: underline" href="https://twitter.com/amelieschltr">𝚡 X</a>
+    -
+    <a style="text-decoration: underline" href="https://read.cv/amelieschltr">📑 Read.cv</a>
+    -
+    <a style="text-decoration: underline" href="mailto:as@amelieschlueter.com">📧 E-Mail</a>
+  </div>
+</div>
 
-First, run the development server:
+### Dynamic Island Webclone
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+I am always striving to improve my Webanimation Skills. In order to practise Framer Motion i recreated the Dynamic Island on the web using NextJS / Framer Motion and Tailwind CSS.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+You can try out the component and read more about the implementation on [my portfolio](https://amelieschlueter.com/interactions/dynamic-island).implementation
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+### Roadmap
 
-## Learn More
+- [x] ⌨️ Personal Blog
+- [x] 🎧 Music & Reading Section
+- [x] 👆🏼 Interaction Corner
+- [ ] 📸 Photos
 
-To learn more about Next.js, take a look at the following resources:
+### Implementation
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- 🛜 Using NextJS for SSR
+- ⌨️ Markdown to handle Content
+- 🔑 TRPC for Server/Client Typesafety
+- 🌉 Light / Darktheme
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### Reach out 📢
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+If you have any questions feel free to reach out to me on [X](https://twitter.com/amelieschltr), [Read.cv](https://read.cv/amelieschltr) or via [E-Mail](mailto:as@amelieschlueter.com). I'am always open to connect to new people or just have a chat.

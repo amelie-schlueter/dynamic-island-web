@@ -1,20 +1,22 @@
-import type { Config } from "tailwindcss"
+import type { Config } from "tailwindcss";
 
 const config = {
   darkMode: ["class"],
   content: [
-    './pages/**/*.{ts,tsx}',
-    './components/**/*.{ts,tsx}',
-    './app/**/*.{ts,tsx}',
-    './src/**/*.{ts,tsx}',
-	],
+    "./pages/**/*.{ts,tsx}",
+    "./components/**/*.{ts,tsx}",
+    "./app/**/*.{ts,tsx}",
+    "./src/**/*.{ts,tsx}",
+  ],
   prefix: "",
   theme: {
     container: {
       center: true,
-      padding: "2rem",
+      padding: ".5rem",
       screens: {
-        "2xl": "1400px",
+        "2xl": "800px",
+        xl: "800px",
+        lg: "800px",
       },
     },
     extend: {
@@ -53,6 +55,17 @@ const config = {
           foreground: "hsl(var(--card-foreground))",
         },
       },
+      fontFamily: {
+        sans: ["var(--font-soehne)"],
+      },
+      fontSize: {
+        base: "1rem", // Setting the default font size to 16px
+        sm: "0.875rem", // Example for small text
+        md: "1.05rem", // Example for regular text
+        lg: "1.125rem", // Example for large text
+        xl: "1.25rem", // Example for extra-large text
+      },
+
       borderRadius: {
         lg: "var(--radius)",
         md: "calc(var(--radius) - 2px)",
@@ -75,6 +88,6 @@ const config = {
     },
   },
   plugins: [require("tailwindcss-animate")],
-} satisfies Config
+} satisfies Config;
 
-export default config
+export default config;
