@@ -1,8 +1,5 @@
 import DynamicIslandWrapper from "@/components/DynanmicIsland/DynamicIslandWrapper";
 import Socials from "@/components/Socials";
-import { Button } from "@/components/ui/button";
-import { Github, TwitchIcon, Twitter, X } from "lucide-react";
-import Image from "next/image";
 import Link from "next/link";
 
 export default function Home() {
