@@ -9,12 +9,12 @@ export default function Home() {
         <div className="mb-6 ">
           <h2 className="text-md font-medium">Dynamic Island</h2>
           <p className="text-muted-foreground">
-            This is a web-clone of the famous Dynamic Island. This component is
+            This is a web clone of the famous Dynamic Island. This component is
             crafted using{" "}
             <span className="underline hover:opacity-60">
               <Link href={"https://www.framer.com/motion/"}>Framer Motion</Link>
             </span>{" "}
-            and was build by{" "}
+            and was built by{" "}
             <span className="underline hover:opacity-60">
               <Link href={"https://amelieschlueter.com"}>Amelie</Link>
             </span>

@@ -13,7 +13,7 @@
 
 ## Dynamic Island Webclone
 
-I constantly work on enhancing my web animation skills. I practiced Framer Motion by recreating the Dynamic Island on the web with Next.js, Framer Motion, and Tailwind CSS. Explore the component and learn more about it on my [personal site](https://amelieschlueter.com).
+I constantly work on enhancing my web animation skills. I practiced Framer Motion by recreating the Dynamic Island on the web with Next.js, Framer Motion, and Tailwind CSS. Explore the component and learn more about it on my [personal site](https://amelieschlueter.com/interactions/dynamic-island).
 
 ### How to use
 
