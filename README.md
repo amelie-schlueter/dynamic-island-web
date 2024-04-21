@@ -11,15 +11,13 @@
   </div>
 </div>
 
-### Dynamic Island Webclone
+## Dynamic Island Webclone
 
----
-
-I am always striving to improve my Webanimation Skills. In order to practise Framer Motion i recreated the Dynamic Island on the web using NextJS / Framer Motion and Tailwind CSS.
-
-You can try out the component and read more about the implementation on [my portfolio](https://amelieschlueter.com/interactions/dynamic-island).implementation
+I constantly work on enhancing my web animation skills. I practiced Framer Motion by recreating the Dynamic Island on the web with Next.js, Framer Motion, and Tailwind CSS. Explore the component and learn more about it on my [personal site](https://amelieschlueter.com).
 
 ### How to use
+
+---
 
 1. Clone the Repo
 

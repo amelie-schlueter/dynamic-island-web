@@ -12,7 +12,7 @@ export default function Home() {
             This is a web-clone of the famous Dynamic Island. This component is
             crafted using{" "}
             <span className="underline hover:opacity-60">
-              <Link href={"https://framer-motion.com"}>Framer Motion</Link>
+              <Link href={"https://www.framer.com/motion/"}>Framer Motion</Link>
             </span>{" "}
             and was build by{" "}
             <span className="underline hover:opacity-60">
