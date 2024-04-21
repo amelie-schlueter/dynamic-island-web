@@ -21,7 +21,7 @@ const DynamicIsland = ({
       className={cn(
         `relative  bg-black ${
           active === "event" ? "rounded-3xl" : "rounded-full"
-        } px-3 py-2.5 text-white border-[1px] origin-left flex items-start justify-start`,
+        } px-3 py-2.5 text-white border-[1px]  flex items-start justify-start`,
         className
       )}
       layout

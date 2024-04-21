@@ -7,8 +7,8 @@ import Link from "next/link";
 
 export default function Home() {
   return (
-    <main className="max-w-[700px] mx-auto p-4 my-6">
-      <div className="mt-12">
+    <main className="max-w-[700px] mx-auto p-4 md:my-6">
+      <div className="md:mt-12">
         <div className="mb-6 ">
           <h2 className="text-md font-medium">Dynamic Island</h2>
           <p className="text-muted-foreground">

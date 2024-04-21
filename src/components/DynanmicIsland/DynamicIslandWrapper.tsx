@@ -16,25 +16,16 @@ const DynamicIslandWrapper = () => {
       <div className="absolute bottom-4 flex gap-2">
         <Button
           variant={"secondary"}
-          // size={"sm"}
           onClick={() => {
             setActive(() => "default");
           }}
         >
           Default
         </Button>
-        <Button
-          variant={"secondary"}
-          // size={"sm"}
-          onClick={() => setActive(() => "call")}
-        >
+        <Button variant={"secondary"} onClick={() => setActive(() => "call")}>
           Call
         </Button>
-        <Button
-          variant={"secondary"}
-          // size={"sm"}
-          onClick={() => setActive(() => "event")}
-        >
+        <Button variant={"secondary"} onClick={() => setActive(() => "event")}>
           Calendar Event
         </Button>
       </div>
