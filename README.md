@@ -20,11 +20,6 @@ I constantly work on enhancing my web animation skills. I practiced Framer Motio
 ---
 
 1. Clone the Repo
-
-```
-git clone https://github.com/amelie-schlueter/animations
-```
-
 2. Install the dependecies.
 
 ```
